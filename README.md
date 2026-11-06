@@ -18,18 +18,18 @@
 
 ---
 
-## 👋 Sobre mim
+##  Sobre mim
 
 Sou **Miguel Angel Balladares Huertas**. Desenvolvo sistemas e apps e gosto de entregar com **qualidade verificável**: testes automatizados, análise estática, documentação e decisões de arquitetura registradas.
 
-- 🧩 Construo sistemas completos, do protótipo no Figma ao banco de dados, em **Delphi** e em **TypeScript**.
-- 🧪 Automatizo **testes de API** com Postman/Newman e documento os bugs que encontro.
-- 🏗️ Documento a arquitetura (modelo C4, ADRs) e mantenho histórico de commits limpo.
-- 🏢 Trabalho na **Youngtech Sistemas**.
+-  Construo sistemas completos, do protótipo no Figma ao banco de dados, em **Delphi** e em **TypeScript**.
+-  Automatizo **testes de API** com Postman/Newman e documento os bugs que encontro.
+-  Documento a arquitetura (modelo C4, ADRs) e mantenho histórico de commits limpo.
+-  Trabalho na **Youngtech Sistemas**.
 
 ---
 
-## 🚀 Projetos em destaque
+##  Projetos em destaque
 
 | Projeto | O que é | Tecnologias |
 |---|---|---|
@@ -40,7 +40,7 @@ Sou **Miguel Angel Balladares Huertas**. Desenvolvo sistemas e apps e gosto de e
 
 ---
 
-## 🧪 Testes e qualidade
+##  Testes e qualidade
 
 | O quê | Como |
 |---|---|
@@ -52,7 +52,7 @@ Sou **Miguel Angel Balladares Huertas**. Desenvolvo sistemas e apps e gosto de e
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 **Linguagens**
 
@@ -87,7 +87,7 @@ Sou **Miguel Angel Balladares Huertas**. Desenvolvo sistemas e apps e gosto de e
 
 ---
 
-## 📊 GitHub em números
+##  GitHub em números
 
 <div align="center">
 
@@ -102,6 +102,6 @@ Sou **Miguel Angel Balladares Huertas**. Desenvolvo sistemas e apps e gosto de e
 
 <div align="center">
 
-📫 Vamos conversar? Me chame no [LinkedIn](https://www.linkedin.com/in/miguel-balladares-48658035a/).
+ Vamos conversar? Me chame no [LinkedIn](https://www.linkedin.com/in/miguel-balladares-48658035a/).
 
 </div>
