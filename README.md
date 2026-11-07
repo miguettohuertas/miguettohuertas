@@ -3,7 +3,7 @@
 <img src="./assets/banner.svg" alt="Miguel Balladares - Desenvolvimento, testes de API e qualidade" width="100%"/>
 
 <a href="https://github.com/miguettohuertas/miguettohuertas">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Desenvolvedor+Delphi+e+TypeScript;Testes+de+API+com+Postman+e+Newman;Apps+web%2C+mobile+e+3D;Qualidade+desde+o+primeiro+commit" alt="Texto animado com minhas áreas de atuação"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Testes+de+API+com+Postman+e+Newman;Qualidade+e+documenta%C3%A7%C3%A3o+de+software;Aprendendo+Delphi+e+TypeScript+na+pr%C3%A1tica;Qualidade+desde+o+primeiro+commit" alt="Texto animado com meus focos: testes de API, qualidade e aprendizado"/>
 </a>
 
 <br/>
@@ -20,9 +20,10 @@
 
 ## Sobre mim
 
-Sou **Miguel Angel Balladares Huertas**. Desenvolvo sistemas e apps e gosto de entregar com **qualidade verificável**: testes automatizados, análise estática, documentação e decisões de arquitetura registradas.
+Sou **Miguel Angel Balladares Huertas**. Meu foco é **qualidade de software**: testes automatizados de API, análise estática, documentação e decisões de arquitetura registradas. Também estou aprendendo a desenvolver na prática.
 
-- Construo sistemas completos, do protótipo no Figma ao banco de dados, em **Delphi** e em **TypeScript**.
+- Aprendo construindo: do protótipo no Figma ao banco de dados, usando **Delphi** e **TypeScript** com apoio de IA.
+- Sobre o **Delphi**: conheço só o básico. O BarberManager foi feito com bastante ajuda do Claude (IA), e o que mais me interessa nele é a parte de testes e qualidade.
 - Automatizo **testes de API** com Postman/Newman e documento os bugs que encontro.
 - Documento a arquitetura (modelo C4, ADRs) e mantenho histórico de commits limpo.
 - Trabalho na **Youngtech Sistemas**.
@@ -55,6 +56,8 @@ Sou **Miguel Angel Balladares Huertas**. Desenvolvo sistemas e apps e gosto de e
 ---
 
 ## Tecnologias
+
+> Nível de cada item: Delphi é básico e foi usado com apoio de IA; testes de API e documentação são o meu foco.
 
 **Linguagens**
 
