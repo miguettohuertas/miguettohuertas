@@ -40,6 +40,20 @@ Sou **Miguel Angel Balladares Huertas**. Meu foco é **qualidade de software**: 
 
 ---
 
+## Colaborações
+
+Projetos em equipe (faculdade e colegas) em que contribuí, cada um com um papel diferente.
+
+| Projeto | O que é | Meu papel |
+|---|---|---|
+| [**CheckFlow**](https://github.com/honoratoog/checkflow) | Gestão de pousadas e hotéis: quartos, hóspedes, reservas, check-in e check-out. | Testes de ponta a ponta com Playwright, testes de API e de interface. |
+| [**Locky**](https://github.com/mari-catolicasc/locky) | Reservas de armários de academia (disciplina de Manutenção e Melhoria de Software). | Documentação: guia de estilo e padrões de código, contrato de API e regras de negócio. |
+| [**Prato Cheio**](https://github.com/migueldufloth/g1126-template-prato-cheio) | Conecta doadores de alimentos excedentes a ONGs (disciplina de Desenvolvimento Ágil). | Documentação de projeto (ADR, critérios de aceite, riscos e trade-offs) e a função de cancelar doação. |
+| [**chamadas-catolica**](https://github.com/Luis-Fernando-Pereira/chamadas-catolica) | Aplicativo em Dart para as chamadas da Católica. | Desenvolvimento: cadastro de alunos, de aulas e matérias, e o dashboard. |
+| [**EventHub**](https://github.com/leonardosth/eventhub) | Projeto de desenvolvimento server side, com banco de dados e protótipo no Figma. | Contribuições no desenvolvimento em grupo. |
+
+---
+
 ## Testes e qualidade
 
 | O quê | Como |
