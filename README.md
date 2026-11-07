@@ -38,7 +38,7 @@ Sou **Miguel Angel Balladares Huertas**. Meu foco é **qualidade de software**: 
 | [**TattDraw**](https://github.com/miguettohuertas/tattdraw) | App para tatuadores desenharem a tatuagem num modelo 3D do corpo do cliente e gravarem um vídeo do resultado. Roda no navegador e no Android. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![three.js](https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
 | [**torque-gestao**](https://github.com/miguettohuertas/torque-gestao) | Sistema web para oficinas mecânicas: ordens de serviço, clientes, veículos e portal do cliente com avisos por Telegram. Projeto acadêmico em equipe (Católica SC), em produção, com 396 testes automatizados e 100% de cobertura no back-end. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | [**rebel-bots**](https://github.com/miguettohuertas/rebel-bots) | Jogo educacional desenvolvido para contribuir com a comunidade regional (fork de projeto colaborativo). | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) |
-| [**FitTrack**](https://github.com/miguettohuertas/FitTrack-main) | Projeto em JavaScript usado para prática de análise de qualidade com Mend. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**FitTrack**](https://github.com/miguettohuertas/FitTrack) | Projeto em JavaScript usado em atividades de análise de código e dependências (Mend, FOSSA e Snyk). | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ---
 
@@ -49,7 +49,7 @@ Sou **Miguel Angel Balladares Huertas**. Meu foco é **qualidade de software**: 
 | **Testes de API** | Coleções Postman/Newman para os módulos de autenticação, serviços e agendamentos do BarberManager, com relatório de bugs em `docs/Qualidade`. |
 | **Testes em equipe** | No torque-gestao: 396 testes (377 de API, 7 unitários de front-end e 12 E2E), carga com Locust e 11 tipos de teste, incluindo contrato de API, segurança e acessibilidade WCAG 2.1 AA. O CI exige 100% de cobertura de linhas e ramos. |
 | **Testes unitários** | Vitest no TattDraw, com a lógica de pintura isolada da interface para ser testável. |
-| **Análise estática** | ESLint, Prettier e TypeScript em modo estrito; SonarQube configurado no BarberManager; análise com Mend no FitTrack. |
+| **Análise estática** | ESLint, Prettier e TypeScript em modo estrito; SonarQube configurado no BarberManager; análise com Mend, FOSSA e Snyk no FitTrack. |
 | **CI/CD** | GitHub Actions rodando as verificações a cada push no TattDraw e no torque-gestao, com testes em SQLite e PostgreSQL. |
 | **Boas práticas** | Conventional Commits, versionamento semântico, CHANGELOG, ADRs e Git LFS para assets pesados. |
 
