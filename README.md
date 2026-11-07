@@ -10,9 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-balladares-48658035a/)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguettohuertas)
-<!-- Quando o portfólio estiver no ar, descomente e ajuste o link:
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://miguettohuertas.github.io)
--->
 
 </div>
 
